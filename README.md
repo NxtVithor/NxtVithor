@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/NxtVithor/NxtVithor/images/banner.png" width="800"/></a>
+  <img src="[https://raw.githubusercontent.com/NxtVithor/NxtVithor/images/banner.png](https://github.com/NxtVithor/NxtVithor/blob/main/images/banner.png)" width="800"/></a>
   <h2 align="center">Hello i am Nxt!</h2>
 </p>
 
