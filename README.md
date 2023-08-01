@@ -1,16 +1,31 @@
-### Hi there 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/NxtVithor/NxtVithor/images/banner.png" width="800"/></a>
+  <h2 align="center">Hello i am Nxt!</h2>
+</p>
 
-<!--
-**NxtVithor/NxtVithor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------------------------------------
 
-Here are some ideas to get you started:
+Trans Rights!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Pronouns are **he/him**, i am Brazilian and i have 17y!
+
+I code in **Haxe(Flixel)**, **Godot (GDScript)** and HTML
+
+I make Friday Night Funkin modifications and Originals Games
+
+Co-Founder of **Arwen Team** i work in Coding, Music and Graphic Design!
+
+----------------------------------------------
+### My Social Media
+
+* [Discord](discord.com/users/NxtVithor)
+* [Twitter](https://twitter.com/NxtVithor)
+* [SoundCloud](https://Soundcloud.com/NxtVithor)
+* [Youtube](https://Youtube.com/NxtVithor)
+
+----------------------------------------------
+### Credits
+
+READ.me by @BeastlyGhost
+
+Persona Drawn by Kippy
