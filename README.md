@@ -7,7 +7,7 @@
 
 Trans Rights!
 
-My Pronouns are **he/him**, i am Brazilian and i have 17y!
+My Pronouns are **he/they**, i am Brazilian and i have 17y!
 
 I code in **Haxe(Flixel)**, **Godot (GDScript)** and HTML
 
